@@ -1,6 +1,6 @@
 # cfxnes
 
-JavaScript NES emulator and emulation library.
+JavaScript NES emulator and emulation library(this can be merged)
 
 ![cfxnes logo](logo.png)
 
